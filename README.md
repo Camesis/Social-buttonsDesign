@@ -1,4 +1,4 @@
-﻿# Social Buttons Design
+<h1>Social Buttons Design</h1>
 
 <img src="assets/social_buttonstest.gif" alt="gif teste, mostrando na prática">
 <p align="center">
