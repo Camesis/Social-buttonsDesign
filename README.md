@@ -20,4 +20,4 @@ Projeto feito com CSS3 e HTML5, fora utilizado também uma fonte externa para co
 Camila C. R. Santos
 </p>
 <br><br>
-<img src="https://img.shields.io/github/stars/Cameasy/Social-buttonsDesign"><img src="https://img.shields.io/github/forks/Cameasy/Social-buttonsDesign">
+<img src="https://img.shields.io/github/stars/Cameasy/Social-buttonsDesign"><img src="https://img.shields.io/github/watchers/Cameasy/Social-buttonsDesign">
